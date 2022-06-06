@@ -1,7 +1,7 @@
 # arrangePreCodeIndent
 Process to erase indent in pre tag.
 
-pre-tag, code-tag を使用したときにHTMLのIndentがそのまま表示されてしまのを削除する。
+pre-tag, code-tag を使用したときにHTMLのIndentがそのまま表示されてしまうのを削除する。
 
 ---
 ### usage
